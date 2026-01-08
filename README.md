@@ -23,7 +23,7 @@ Program içerisinde aşağıdaki 9 farklı fiziksel senaryo hesaplanabilmektedir
 8. **İp Gerilmesi Deneyi:** Statik durumda bir kütleyi tutan ipteki gerilme kuvveti.
 9. **Asansör Deneyi:** İvmeli hareket eden bir asansör içindeki kütlenin "etkin ağırlık" değişimi.
 
-## 📊 Gezegen Veri Tablosu
+##  Gezegen Veri Tablosu
 
 Programda kullanılan yerçekimi ivmeleri (m/s²):
 
@@ -31,11 +31,11 @@ Programda kullanılan yerçekimi ivmeleri (m/s²):
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 3.70 | 8.87 | 9.81 | 3.71 | 24.79 | 10.44 | 8.69 | 11.15 |
 
-## 🛠 Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 * **Dil:** C (C99 ve üzeri standartlar)
 * **Kütüphaneler:** stdio.h, stdlib.h, math.h
 
-## 👤 Yazar
+##  Yazar
 * **İsim:** Osman Buğra Yılmaz
 * **Proje Tipi:** Algoritma ve Veri Yapıları (AVP) Dönem Projesi
